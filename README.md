@@ -10,5 +10,8 @@
             </ol></p>
             
 <p>Uygulama ile ilgili bazı görseller</p>
-<img src="https://drive.google.com/file/d/1e7cqPcql8KQqNrqPKs0Me7Dp2ja-tXPI/view?usp=sharing" alt="Örnek Resim"/>
+
+
+<a href="#"><img src="public/gorsel/html.jpg" alt="Örnek Resim" /></a>
+
 Kaynak : https://www.youtube.com/watch?v=CJC4hmAVBmw&list=PL0BR3UnhlDq5iwxHPmDmMSlj3Bp7YoyVN
