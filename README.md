@@ -4,10 +4,12 @@
  
 <p>Uygumalayı çalıştırmak için:
  Bilgisayarınızda Node.js ve Socket.io modulunun kurulu olması gerekiyor.
+ <div>
 <ol type="I">
    <li>npm install</li>
    <li>node index.js</li>
 </ol></p>
+</div>
             
 
 
