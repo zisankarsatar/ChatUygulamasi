@@ -11,8 +11,8 @@
 </ol></p>
 </div>
 
-<a href="/public"><img src="resim1.png" alt="Örnek Resim" /></a>
-<a href="/public"><img src="resim2.png" alt="Örnek Resim" /></a>
+<img href="/public"><img src="resim1.png" alt="Örnek Resim" />
+<img href="/public"><img src="resim2.png" alt="Örnek Resim" />
             
 
 
