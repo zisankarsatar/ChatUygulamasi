@@ -11,9 +11,12 @@
 </ol></p>
 </div>
 
-<img href="/public/resim1"><img src="resim1.png" alt="Örnek Resim" />
-<img href="/public/resim2"><img src="resim2.png" alt="Örnek Resim" />
-            
+<p>Uygumalaya ait resimler:
+ 
+  ![resim1](https://user-images.githubusercontent.com/48350459/70602869-6a7a4180-1c06-11ea-92ad-e89c1dd171e6.png) <br> 
+  ![resim2](https://user-images.githubusercontent.com/48350459/70602880-7108b900-1c06-11ea-9d2f-5ce947bbbed8.png)
+  
+</p>
 
 
 <b>Kaynak : https://www.youtube.com/watch?v=CJC4hmAVBmw&list=PL0BR3UnhlDq5iwxHPmDmMSlj3Bp7YoyVN</b>
