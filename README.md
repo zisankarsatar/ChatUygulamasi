@@ -6,11 +6,13 @@
  Bilgisayarınızda Node.js ve Socket.io modulunun kurulu olması gerekiyor.
  <div style="background-color:grey">
 <ol type="I">
-   <li>npm install</li>
-   <li>node index.js</li>
+   <li>npm init</li>
+   <li>npm i express --save</li>
+   <li>npm i nodemon --save-dev</li>
+   <li>npm i socket.io --save</li>
 </ol></p>
 </div>
-
+<p>"<b>node index</b>" ile çalışır.</p> 
 <p>Uygumalaya ait resimler:
  
   ![resim1](https://user-images.githubusercontent.com/48350459/70602869-6a7a4180-1c06-11ea-92ad-e89c1dd171e6.png) <br> 
